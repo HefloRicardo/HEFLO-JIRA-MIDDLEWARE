@@ -1,0 +1,5 @@
+{
+    "JIRAHOST": "xxx.atlassian.net",
+    "JIRAUSERNAME": "jira username",
+    "JIRATOKEN": "jira user personal token"
+}
